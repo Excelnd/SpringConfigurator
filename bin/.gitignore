@@ -1,0 +1,7 @@
+/.project
+/applicationContext.out.xml
+/com/
+/applicationContext.xml
+/beanLifeCycle-applicationContext.xml
+/beanScope-applicationContext.xml
+/sport.properties
